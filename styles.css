@@ -13,9 +13,12 @@ body {
 header {
 	background-color: #70594f;
 }
-
+.navbar-brand {
+	margin-left: -15px;
+}
 h1 {
 	margin-bottom: 15px;
+	margin-left: -15px;
 }
 
 h2 {
@@ -191,7 +194,7 @@ p {
 
 	/* H1 Header */
 	h1 {
-		font-size: 7vw;
+		font-size: 6vw;
 	}
 	/* End of H1 Header */
 }
